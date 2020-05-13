@@ -1,0 +1,5 @@
+[] Add better serialization to take advantage of the persistencies.
+[] Documentation
+[] Tests
+[] Benchmarks
+[] Features
